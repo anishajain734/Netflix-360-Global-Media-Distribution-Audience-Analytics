@@ -1,4 +1,4 @@
-**Netflix 360°: Global Media Distribution & Audience Analytics**
+## **Netflix 360°: Global Media Distribution & Audience Analytics**
 
 ## 📌 Business Overview
 This project analyzes Netflix’s global library of over 8,000 titles to identify content acquisition trends and regional distribution gaps.  
@@ -68,6 +68,5 @@ This ensures scalability and optimized query performance.
 
 ## 🎓 Credentials & Inspiration
 This project is inspired by best practices from:
-
 - Microsoft **PL-300: Power BI Data Analyst Certification**
 - University of Washington **Data Analytics & Visualization Principles**
