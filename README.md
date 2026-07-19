@@ -68,7 +68,7 @@ This ensures scalability and optimized query performance.
 
 
 ## 📸 Dashboard Screenshots
-Netflix 360° Global Media Distribution & Audience Analytics.png
+![Netflix 360° Global Media Distribution & Audience Analytics](Netflix 360° Global Media Distribution & Audience Analytics.png)
 
 
 ## 🎓 Credentials & Inspiration
