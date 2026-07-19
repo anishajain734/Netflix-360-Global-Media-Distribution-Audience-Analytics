@@ -66,6 +66,11 @@ This ensures scalability and optimized query performance.
 | **Geographic Analysis** | Country-wise content distribution |
 | **Catalog Diversity** | Genre and rating breakdown |
 
+
+## 📸 Dashboard Screenshots
+Netflix 360° Global Media Distribution & Audience Analytics.png
+
+
 ## 🎓 Credentials & Inspiration
 This project is inspired by best practices from:
 - Microsoft **PL-300: Power BI Data Analyst Certification**
